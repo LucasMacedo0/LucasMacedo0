@@ -31,6 +31,6 @@
 <div style="display: inline_block">
   <h2> Contatos </h2>
   <a href="https://www.linkedin.com/in/lucas-macedo-2a90171ba/" target="_blank"><img alt"Lucas-Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  <a href="lm818352@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">          
+  <a href="mailto:lm818352@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">          
 </div>
     <hr>
