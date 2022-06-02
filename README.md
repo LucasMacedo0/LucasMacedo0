@@ -1,6 +1,5 @@
-### <h1>Olá, Me Chamo Lucas Macedo sou Estudante de Tecnologias Back-end e Front-End</h1>
+### <h1>Olá, Me Chamo Lucas Macedo sou estudante de tecnologias Back-end e Front-End</h1>
 
-- 🔭 Atualmente Estou em busca de um estagio.
 - 🌱 Atualmente Estou estudando Java e Spring boot...
 - 👯 Procuro Colaborar como desenvolvedor Back-end ou Front-end
 
