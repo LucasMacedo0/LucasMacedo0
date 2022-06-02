@@ -1,6 +1,6 @@
-### <h1>Olá, Me Chamo Lucas Macedo sou estudante de tecnologias back-end e front-End</h1>
+### <h1>Olá, me chamo Lucas Macedo sou estudante de tecnologias back-end e front-End</h1>
 
-- 👯 Procuro colaborar como desenvolvedor Back-end ou Front-end
+- 👯 Procuro colaborar como desenvolvedor back-end ou front-end
 
 <div align="center">
   <a href="https://github.com/LucasMacedo0">
@@ -22,7 +22,7 @@
   <h2>Conhecimentos em IDES</h2>
   <img align="center" alt="IDE-ECLIPSE" height="30" width="40" src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white">
   <img align="center" alt="IDE-VSCODE" height="30" width="40" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white">
-  <img align="center" alt="IDE-NETBEANS" height="30" width="40" src="https://img.shields.io/badge/apache%20netbeans-1B6AC6?style=for-the-badge&logo=apache%20netbeans%20IDE&logoColor=white">
+  <img align="center" alt="IDE-NETBEANS" height="30" width="40" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
 </div>
 <hr>
 <div style="display: inline_block">
