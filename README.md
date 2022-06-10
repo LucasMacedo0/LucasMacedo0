@@ -1,4 +1,4 @@
-### <h1>Olá, me chamo Lucas Macedo sou estudante de tecnologias back-end e front-End</h1>
+<h1>Olá, me chamo Lucas Macedo sou estudante de tecnologias back-end e front-End</h1>
 
 - 👯 Procuro colaborar como desenvolvedor back-end ou front-end
 
