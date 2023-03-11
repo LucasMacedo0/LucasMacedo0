@@ -1,6 +1,6 @@
 <h1>Olá, me chamo Lucas Macedo sou estudante de tecnologias back-end e front-End</h1>
 
-- 👯 Procuro colaborar como desenvolvedor back-end ou front-end
+- Desenvolvedor Java / Back-End
 
 <div align="center">
   <a href="https://github.com/LucasMacedo0">
@@ -10,13 +10,12 @@
 <hr>
  <div style="display: inline_block">
     <h2> Conhecimentos das Linguagens abaixo </h2>
-    <img align="center" alt="Lucas-HTML" height="30" width="40" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-    <img align="center" alt="Lucas-CSS" height="30" width="40" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-    <img align="center" alt="Lucas-Js" height="30" width="40" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-    badge&logo=javascript&logoColor=F7DF1E">
     <img align="center" alt="Lucas-JAVA" height="30" width="40" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
     <img align="center" alt="Lucas-Spring" height="30" width="40" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
     <img align="center" alt="Lucas-MYSQL" height="30" width="40" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-   
+    <img align="center" alt="Lucas-MONGODB" height="30" width="40" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
+   <img align="center" alt="Lucas-AZURE" height="30" width="40" src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white">
+   <img align="center" alt="Lucas-BITBUCKET" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original-wordmark.svg">
  <hr> 
 <div style="display: inline_block">
   <h2>Conhecimentos em IDES</h2>
