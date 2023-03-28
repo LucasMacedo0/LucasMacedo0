@@ -5,7 +5,7 @@
 <div align="center">
   <a href="https://github.com/LucasMacedo0">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasMacedo0&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasMacedo0&layout=compact&langs_count=7&theme=onedark"/>
+  <img height="150em" src="https://camo.githubusercontent.com/ed83d9c00c1b3997cf9477c91bb8c5398595e510fbadf457ecc31d6df89e90b2/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d4573647261732d416c766573266c61796f75743d636f6d7061637426686964655f626f726465723d74727565267469746c655f636f6c6f723d30303030464626746578745f636f6c6f723d3030346366662662675f636f6c6f723d306431313137"/>
 </div>
 <hr>
  <div style="display: inline_block">
