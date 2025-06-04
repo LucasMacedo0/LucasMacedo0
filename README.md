@@ -1,5 +1,5 @@
 # 💫 About Me:
-Desenvolvedor Back-End<br>Especialidade: Java<br>
+Desenvolvedor Back-End<br>Especialidade: Java/Spring <br>
 
 
 ## 🌐 Socials:
